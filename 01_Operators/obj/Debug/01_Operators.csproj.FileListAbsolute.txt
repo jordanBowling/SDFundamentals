@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\01_Operators.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\01_Operators.pdb
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\obj\Debug\01_Operators.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\obj\Debug\01_Operators.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\obj\Debug\01_Operators.csproj.CopyComplete
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\obj\Debug\01_Operators.dll
+C:\ElevenFiftyProjects\105SDGold\SDFundamentals\01_Operators\obj\Debug\01_Operators.pdb
